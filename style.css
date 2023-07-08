@@ -30,3 +30,9 @@ body{
     justify-content: space-around;
     align-items: center;
 }
+.loading{
+    color:aliceblue;
+    font-size: 3em;
+    position: absolute;
+    top: 50%;
+}
